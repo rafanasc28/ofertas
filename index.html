@@ -119,7 +119,7 @@ function card(o){
       ${o.destaque ? '<span class="tag">⭐ Do nosso post de hoje</span>' : ""}
       <div class="nome">${esc(o.nome)}</div>
       ${de}
-      <div class="preco"><span class="v">R$ ${fmt(o.preco)}</span>${o.pix ? '<span class="obs">no Pix</span>' : ""}</div>
+      <div class="preco"><span class="v">R$ ${fmt(o.preco)}</span>${o.pix ? `<span class="obs">no Pix${o.cupom ? " com cupom" : ""}</span>` : (o.cupom ? '<span class="obs">com cupom</span>' : "")}</div>
       ${o.parcelas ? `<div class="parc">${esc(o.parcelas)}</div>` : ""}
       <div class="meta">Preço conferido ${quando(o.conferido_em)}${nota}</div>
       <a class="btn" href="${esc(o.link)}" rel="sponsored noopener">Ver no Mercado Livre →</a>
