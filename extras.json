@@ -1,0 +1,9 @@
+{
+ "_regra": "Ofertas só da vitrine (sem post no Instagram), aprovadas pelo CTO Master. Somem sozinhas 24 h depois de conferido_em. Só links https://meli.la/.",
+ "ofertas": [
+  {"nome": "Pré-Treino Darkness Évora XT Laranja 300 g", "preco": 89.90, "preco_ref": 149.90, "desconto": 40,
+   "pix": false, "cupom": false, "parcelas": "ou 12x de R$ 8,85", "nota": null,
+   "foto": "fotos/meli-1kh2a44.jpg", "link": "https://meli.la/1kH2A44",
+   "conferido_em": "2026-11-13T14:27:00Z", "destaque": false}
+ ]
+}
