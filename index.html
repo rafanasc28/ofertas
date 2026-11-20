@@ -139,7 +139,7 @@ async function carregar(){
     const doBanco = api.status === "fulfilled" ? api.value.ofertas : [];
     const agora = Date.now();
     const extras = (ext.status === "fulfilled" ? ext.value.ofertas || [] : [])
-      .filter(o => agora - new Date(o.conferido_em).getTime() < 24 * 3600 * 1000)
+      .filter(o => agora - new Date(o.conferido_em).getTime() < (o.validade_h || 24) * 3600 * 1000)
       .filter(o => !doBanco.some(b => b.link === o.link));
     const ofertas = [...doBanco, ...extras];
     if (!ofertas.length) {

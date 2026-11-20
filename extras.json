@@ -1,5 +1,5 @@
 {
- "_regra": "Ofertas só da vitrine (sem post no Instagram), aprovadas pelo CTO Master. Somem sozinhas 24 h depois de conferido_em. Só links https://meli.la/.",
+ "_regra": "Ofertas só da vitrine (sem post no Instagram), aprovadas pelo CTO Master. Cada uma some sozinha validade_h horas depois de conferido_em (padrão 24 h). Só links https://meli.la/.",
  "ofertas": [
   {
    "nome": "Barraca de Camping Automática Forestdog 2-3 Pessoas Pop Up",
@@ -13,7 +13,8 @@
    "foto": "fotos/meli-27px8kd.jpg",
    "link": "https://meli.la/27pX8kd",
    "conferido_em": "2026-11-20T15:17:00Z",
-   "destaque": false
+   "destaque": false,
+   "validade_h": 48
   },
   {
    "nome": "Kit Legendários Braicon: Barraca, Mochila, Bastão e Saco de Dormir",
@@ -27,7 +28,8 @@
    "foto": "fotos/meli-2dmxuq2.jpg",
    "link": "https://meli.la/2dMxuq2",
    "conferido_em": "2026-11-20T15:18:00Z",
-   "destaque": false
+   "destaque": false,
+   "validade_h": 48
   },
   {
    "nome": "Saco de Dormir NTK Nautika Viper Preto e Laranja",
@@ -41,7 +43,8 @@
    "foto": "fotos/meli-2agxszu.jpg",
    "link": "https://meli.la/2agXSzU",
    "conferido_em": "2026-11-20T15:19:00Z",
-   "destaque": false
+   "destaque": false,
+   "validade_h": 48
   },
   {
    "nome": "Kit Legendários Camping Kala 6 Itens com Barraca",
@@ -55,7 +58,8 @@
    "foto": "fotos/meli-27cdpbo.jpg",
    "link": "https://meli.la/27cdpbo",
    "conferido_em": "2026-11-20T15:19:00Z",
-   "destaque": false
+   "destaque": false,
+   "validade_h": 48
   },
   {
    "nome": "Kit Legendários 11 Peças NTK Nautika com Mochila e Barraca",
@@ -69,7 +73,83 @@
    "foto": "fotos/meli-2yhefs6.jpg",
    "link": "https://meli.la/2yHEfS6",
    "conferido_em": "2026-11-20T15:16:00Z",
-   "destaque": false
+   "destaque": false,
+   "validade_h": 48
+  },
+  {
+   "nome": "Bastão de Caminhada Trekking Retrátil Antishock Alumínio",
+   "preco": 48.18,
+   "preco_ref": 78.99,
+   "desconto": 39,
+   "pix": false,
+   "cupom": false,
+   "parcelas": null,
+   "nota": 4.7,
+   "foto": "fotos/meli-1xfolkj.jpg",
+   "link": "https://meli.la/1XFoLKJ",
+   "conferido_em": "2026-11-20T20:31:00Z",
+   "destaque": false,
+   "validade_h": 48
+  },
+  {
+   "nome": "Kit 2 Capas de Chuva Reforçadas Transparentes com Capuz",
+   "preco": 28.2,
+   "preco_ref": 39.99,
+   "desconto": 29,
+   "pix": false,
+   "cupom": false,
+   "parcelas": null,
+   "nota": 4.7,
+   "foto": "fotos/meli-1pcu3fo.jpg",
+   "link": "https://meli.la/1pcU3Fo",
+   "conferido_em": "2026-11-20T20:32:00Z",
+   "destaque": false,
+   "validade_h": 48
+  },
+  {
+   "nome": "Lona Azul Reforçada 4x4 m 100 Micras Ajax",
+   "preco": 43.9,
+   "preco_ref": 49.9,
+   "desconto": 12,
+   "pix": false,
+   "cupom": false,
+   "parcelas": null,
+   "nota": 4.4,
+   "foto": "fotos/meli-259vhpn.jpg",
+   "link": "https://meli.la/259vHPN",
+   "conferido_em": "2026-11-20T20:33:00Z",
+   "destaque": false,
+   "validade_h": 48
+  },
+  {
+   "nome": "Lanterna de Cabeça Recarregável Hytalux HY093 LED 2000 lm",
+   "preco": 42.4,
+   "preco_ref": 44.9,
+   "desconto": 5,
+   "pix": false,
+   "cupom": false,
+   "parcelas": null,
+   "nota": 4.8,
+   "foto": "fotos/meli-1jx63cx.jpg",
+   "link": "https://meli.la/1jx63Cx",
+   "conferido_em": "2026-11-20T20:34:00Z",
+   "destaque": false,
+   "validade_h": 48
+  },
+  {
+   "nome": "Kit 5 Mantas Térmicas Aluminizadas para Acampamento",
+   "preco": 39.99,
+   "preco_ref": 67.98,
+   "desconto": 41,
+   "pix": false,
+   "cupom": false,
+   "parcelas": null,
+   "nota": 4.7,
+   "foto": "fotos/meli-2yw2qkm.jpg",
+   "link": "https://meli.la/2yW2qkm",
+   "conferido_em": "2026-11-20T20:35:00Z",
+   "destaque": false,
+   "validade_h": 48
   }
  ]
 }
