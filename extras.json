@@ -1,9 +1,75 @@
 {
  "_regra": "Ofertas só da vitrine (sem post no Instagram), aprovadas pelo CTO Master. Somem sozinhas 24 h depois de conferido_em. Só links https://meli.la/.",
  "ofertas": [
-  {"nome": "Pré-Treino Darkness Évora XT Laranja 300 g", "preco": 89.90, "preco_ref": 149.90, "desconto": 40,
-   "pix": false, "cupom": false, "parcelas": "ou 12x de R$ 8,85", "nota": null,
-   "foto": "fotos/meli-1kh2a44.jpg", "link": "https://meli.la/1kH2A44",
-   "conferido_em": "2026-11-13T14:27:00Z", "destaque": false}
+  {
+   "nome": "Barraca de Camping Automática Forestdog 2-3 Pessoas Pop Up",
+   "preco": 169.8,
+   "preco_ref": null,
+   "desconto": null,
+   "pix": false,
+   "cupom": false,
+   "parcelas": "ou 12x de R$ 16,78",
+   "nota": 4.8,
+   "foto": "fotos/meli-27px8kd.jpg",
+   "link": "https://meli.la/27pX8kd",
+   "conferido_em": "2026-11-20T15:17:00Z",
+   "destaque": false
+  },
+  {
+   "nome": "Kit Legendários Braicon: Barraca, Mochila, Bastão e Saco de Dormir",
+   "preco": 623.49,
+   "preco_ref": 899.89,
+   "desconto": 30,
+   "pix": false,
+   "cupom": false,
+   "parcelas": "ou 12x de R$ 60,29",
+   "nota": 5.0,
+   "foto": "fotos/meli-2dmxuq2.jpg",
+   "link": "https://meli.la/2dMxuq2",
+   "conferido_em": "2026-11-20T15:18:00Z",
+   "destaque": false
+  },
+  {
+   "nome": "Saco de Dormir NTK Nautika Viper Preto e Laranja",
+   "preco": 78.9,
+   "preco_ref": 157.14,
+   "desconto": 49,
+   "pix": false,
+   "cupom": false,
+   "parcelas": "ou 12x de R$ 7,77",
+   "nota": 4.8,
+   "foto": "fotos/meli-2agxszu.jpg",
+   "link": "https://meli.la/2agXSzU",
+   "conferido_em": "2026-11-20T15:19:00Z",
+   "destaque": false
+  },
+  {
+   "nome": "Kit Legendários Camping Kala 6 Itens com Barraca",
+   "preco": 448.22,
+   "preco_ref": 798.96,
+   "desconto": 43,
+   "pix": false,
+   "cupom": false,
+   "parcelas": "ou 12x de R$ 43,34",
+   "nota": 4.9,
+   "foto": "fotos/meli-27cdpbo.jpg",
+   "link": "https://meli.la/27cdpbo",
+   "conferido_em": "2026-11-20T15:19:00Z",
+   "destaque": false
+  },
+  {
+   "nome": "Kit Legendários 11 Peças NTK Nautika com Mochila e Barraca",
+   "preco": 679.9,
+   "preco_ref": 999.89,
+   "desconto": 32,
+   "pix": false,
+   "cupom": false,
+   "parcelas": "ou 12x de R$ 65,75",
+   "nota": 4.4,
+   "foto": "fotos/meli-2yhefs6.jpg",
+   "link": "https://meli.la/2yHEfS6",
+   "conferido_em": "2026-11-20T15:16:00Z",
+   "destaque": false
+  }
  ]
 }
